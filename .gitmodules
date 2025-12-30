@@ -10,3 +10,9 @@
 [submodule "funds-backend"]
 	path = funds-backend
 	url = git@github.com:Brightstar-Research/funds.backend.akinocapital.com.git
+[submodule "funds.akinocapital.com"]
+	path = funds.akinocapital.com
+	url = git@github.com:Brightstar-Research/funds.akinocapital.com.git
+[submodule "funds.backend.akinocapital.com"]
+	path = funds.backend.akinocapital.com
+	url = git@github.com:Brightstar-Research/funds.backend.akinocapital.com.git
