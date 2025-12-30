@@ -4,12 +4,6 @@
 #   path = path/to/submodule
 #   url = https://github.com/user/repo.git
 
-[submodule "funds"]
-	path = funds
-	url = git@github.com:Brightstar-Research/funds.akinocapital.com.git
-[submodule "funds-backend"]
-	path = funds-backend
-	url = git@github.com:Brightstar-Research/funds.backend.akinocapital.com.git
 [submodule "funds.akinocapital.com"]
 	path = funds.akinocapital.com
 	url = git@github.com:Brightstar-Research/funds.akinocapital.com.git
